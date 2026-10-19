@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.rvt
+*.rfa
+*.rte
+*.0*.rvt
+*.0*.rfa
+~$*.xlsx
+.env
+secrets.*
