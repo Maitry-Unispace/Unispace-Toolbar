@@ -5,10 +5,10 @@
     "rocket_mode_compatible": "True",
     "name": "Unispace",
     "description": "Set of custom tools for Unispace.",
-    "author": "Matt Vogel",
+    "author": "Matt Vogel , Maitry Varia",
     "author_profile": "https://www.linkedin.com/in/matthewtvogel",
-    "url": "https://github.com/Unispace365/toolbar.git",
-    "website": "https://github.com/Unispace365/toolbar",
+"url": "https://github.com/Maitry-Unispace/Unispace-Toolbar.git",
+"website": "https://github.com/Maitry-Unispace/Unispace-Toolbar",
     "image": "",
     "templates": {
         "author": "",
